@@ -3,7 +3,7 @@ package com.everis.main;
 /**
  * Formación - GIT
  * 
- * @author Everis
+ * @author aruidelg
  *
  */
 public class EverisMain {
@@ -14,10 +14,12 @@ public class EverisMain {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
+
 		System.out.println("Hola a tod@s");
-		
+
 		/* INTRODUCIR NUEVOS SALUDOS */
+
+		System.out.println("Hola Mundo | Andres");
 
 	}
 
