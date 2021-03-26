@@ -18,6 +18,8 @@ public class EverisMain {
 		System.out.println("Hola a tod@s");
 		
 		/* INTRODUCIR NUEVOS SALUDOS */
+		System.out.println("Mi nombre es Juan Jesús Fernández Rodríguez.");
+		System.out.println("Un placer conocerle.");
 
 	}
 
